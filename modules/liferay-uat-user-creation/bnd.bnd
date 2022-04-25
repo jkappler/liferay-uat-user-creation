@@ -1,0 +1,3 @@
+Bundle-Name: Liferay UAT User Creation
+Bundle-SymbolicName: com.liferay.uat.user.creation
+Bundle-Version: 1.0.0
