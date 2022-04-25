@@ -1,1 +1,1 @@
-# liferay-user-creation
+# liferay-uat-user-creation
